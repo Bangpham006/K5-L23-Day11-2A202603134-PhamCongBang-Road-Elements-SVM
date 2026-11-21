@@ -7,3 +7,8 @@ submissions/
 out/
 *.zip
 .env
+GUIDELINE_THUC_CHIEN_DAY11.md
+scripts/
+samples.json
+*.pt
+peer_eval/
